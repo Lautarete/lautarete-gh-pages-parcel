@@ -1,0 +1,1 @@
+{"mappings":"SAASA,OACPC,QAAQC,IAAG,qBACb,CAEAF","sources":["src/index.ts"],"sourcesContent":["function main() {\r\n  console.log(\"Esto es una prueba\");\r\n}\r\n\r\nmain();\r\n"],"names":["main","console","log"],"version":3,"file":"index.89a95c96.js.map"}
